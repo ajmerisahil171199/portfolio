@@ -1,5 +1,4 @@
 {
-  "homepage": "https://ajmerisahil171199.github.io/portfolio",
   "name": "developer-portfolio",
   "description": "Portfolio of Sahil Ajmeri",
   "version": "0.1.0",
@@ -8,9 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "lint": "next lint"
   },
   "dependencies": {
     "@emailjs/browser": "^4.3.1",
